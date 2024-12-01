@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Terms of Service - TestApp</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service for TestApp</h1>
+    <p>Last updated: December 2023</p>
+
+    <h2>1. Acceptance of Terms</h2>
+    <p>By accessing and using TestApp, you accept and agree to be bound by these Terms of Service.</p>
+
+    <h2>2. User Registration</h2>
+    <p>Users may access the service through social login providers including Google and Facebook.</p>
+
+    <h2>3. User Obligations</h2>
+    <p>Users agree to:</p>
+    <ul>
+        <li>Provide accurate information</li>
+        <li>Maintain the security of their account</li>
+        <li>Comply with all applicable laws and regulations</li>
+    </ul>
+
+    <h2>4. Contact</h2>
+    <p>For any questions regarding these terms, please contact:</p>
+    <p>Email: kazakis.th@gmail.com</p>
+</body>
+</html>
